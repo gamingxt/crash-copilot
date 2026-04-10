@@ -31,7 +31,7 @@ We built Crash-Copilot to solve the biggest bottleneck in development: parsing t
 
 ### 1. Clone into your workspace
 ```bash
-git clone [https://github.com/gamingfirext/crash-copilot.git](https://github.com/gamingfirext/crash-copilot.git)
+git clone https://github.com/gamingxt/crash-copilot.git
 ```
 
 ### 2. Configure Your AI Model
